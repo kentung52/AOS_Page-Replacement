@@ -22,9 +22,8 @@ Requirements:
       ● Custom: A user-defined reference string.
       
   3. Memory Configuration:
-     
-      ● Number of frames in main memory: 10, 20, 30, ..., up to 100.
-     
+          
+      ● Number of frames in main memory: 10, 20, 30, ..., up to 100.     
      
   4. Performance Metrics:
      
