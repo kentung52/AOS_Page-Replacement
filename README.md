@@ -25,6 +25,7 @@ Requirements:
      
       ● Number of frames in main memory: 10, 20, 30, ..., up to 100.
      
+     
   4. Performance Metrics:
      
     ● Page faults versus the number of frames.
